@@ -2,7 +2,7 @@
   "name": "class-transition",
   "version": "0.0.6",
   "dependencies": {
-    "ms": "0.7.0",
+    "ms": "0.7.2",
     "component-classes": "1.2.3",
     "component-event": "0.1.4",
     "transitionend-property": "0.0.2"
